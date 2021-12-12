@@ -27,7 +27,7 @@ Usage of website2bin:
 Checkout the [presentation](./presentation) at GopherCon 2021 ligtnight talks Day 3. I tried
 to make the slides accessible using Microsoft Powerpoint's suggestions (.PPTX file).
 
-Talk link coming up.
+A [video](https://youtu.be/XnPHI6cCL7E?t=10222) of the talk is also available now.
 
 ## Limitations
 
