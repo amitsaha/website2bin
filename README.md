@@ -1,7 +1,7 @@
 # Website2Bin - Static website to a Go binary
 
 This command line application, given a directory containing HTML files and other directories (a static
-website for example), will create a `go.mod` and `server.go` file (or overwrite. 
+website for example), will create a `go.mod` and `server.go` file (or overwrite the existing ones). 
 
 Once you build the server, you can deploy it without having to copy the files.
 
