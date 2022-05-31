@@ -24,10 +24,13 @@ Usage of website2bin:
 
 ## Learn more
 
-Checkout the [presentation](./presentation) at GopherCon 2021 ligtnight talks Day 3. I tried
+Checkout the [presentation](./presentation) at GopherCon 2021 lightning talks Day 3. I tried
 to make the slides accessible using Microsoft Powerpoint's suggestions (.PPTX file).
 
 A [video](https://youtu.be/XnPHI6cCL7E?t=10222) of the talk is also available now.
+
+I have described how I took the idea that this tool implements to write a server which serves the 
+content on https://practicalgobook.net in a [blog post](https://practicalgobook.net/posts/practicalgobook_net/).
 
 ## Limitations
 
